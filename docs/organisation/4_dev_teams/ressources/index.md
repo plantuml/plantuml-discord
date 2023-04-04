@@ -12,10 +12,10 @@ name: ressources
 ___
 **Plantuml bot logo**
 
-https://github.com/plantuml/plantuml-discord/blob/main/docs/4_dev_teams/resources/Plantuml_Logo.png
-https://github.com/plantuml/plantuml-discord/blob/main/docs/4_dev_teams/resources/Plantuml_Logo_nb.png
-https://github.com/plantuml/plantuml-discord/blob/main/docs/4_dev_teams/resources/Plantuml_Logo.svg
-https://github.com/plantuml/plantuml-discord/blob/main/docs/4_dev_teams/resources/Plantuml_Logo.ai
+https://github.com/plantuml/plantuml-discord/blob/main/docs/resources/Plantuml_Logo.png
+https://github.com/plantuml/plantuml-discord/blob/main/docs/resources/Plantuml_Logo_nb.png
+https://github.com/plantuml/plantuml-discord/blob/main/docs/resources/Plantuml_Logo.svg
+https://github.com/plantuml/plantuml-discord/blob/main/docs/resources/Plantuml_Logo.ai
 
 ___
 **Github tools**
@@ -37,5 +37,5 @@ ___
   --puml-blue: #130237;
 }
 
-https://github.com/plantuml/plantuml-discord/raw/main/docs/4_dev_teams/ressources/colors.png
+https://github.com/plantuml/plantuml-discord/raw/main/docs/ressources/colors.png
 ```
